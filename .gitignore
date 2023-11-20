@@ -1,0 +1,8 @@
+# ENV
+.todoEnv/
+
+# django
+__pycache__/
+migrations/
+*.pyc
+db.sqlite3
